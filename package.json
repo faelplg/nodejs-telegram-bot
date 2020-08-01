@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot made with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faelplg/nodejs-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faelplg/nodejs-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/faelplg/nodejs-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
